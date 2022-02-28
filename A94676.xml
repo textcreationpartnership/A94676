@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Hounourable the supreame authority of the Common-wealth of England in Parliament assembled. The humble petition of divers free-holders and other inhabitants in the county of Hartford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94676</idno>
+            <idno type="STC">Wing T1709</idno>
+            <idno type="STC">Thomason 669.f.21[55]</idno>
+            <idno type="STC">ESTC R211220</idno>
+            <idno type="EEBO-CITATION">99869950</idno>
+            <idno type="PROQUEST">99869950</idno>
+            <idno type="VID">163550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163550)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f21[55])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Hounourable the supreame authority of the Common-wealth of England in Parliament assembled. The humble petition of divers free-holders and other inhabitants in the county of Hartford.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Brewster, at the three Bibles at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Praying that the Good Old Cause may be maintained, tithes abolished and the laws revised.</note>
+                  <note>Annotation on Thomason copy: "June. 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Hertfordshire (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163550:1" rendition="simple:additions"/>
+            <head>To the Right Honourable the Supreame Authority of the Common-wealth of
+England in PARLIAMENT aſſembled.
+The humble Petition of divers Free-holders and others Inhabitants in the
+County of Hartford.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat we have been filled with an holy admiration at, and rejoycing in the ſpeciall hand of God for good (we
+hope) towards us and the whole land in this late fignall providence towards you, in reſtoring you with honour
+and freedom to the exerciſe of the ſupream Authority of this Common-wealth; in the management whereof
+how the Lord of hoſts owned and eminently appeared for you, by a continued ſeries of miraculous ſalvations both
+by land and ſea, to the refreſhing the hearts of your friends, and aſtoniſhment and amazement of your adverſaries
+at home and abroad, far and neer, as it will (we truſt) be freſh in your remembrance as an incitement and encourage<g ref="char:EOLhyphen"/>ment
+to follow God fully, and wholly to put your confidence in him, in a vigorous and faithfull diſcharge of the truſt
+repoſed in you, ſo we finde it is indellibly written in our hearts as a foundation of faith and hope, that he that hath
+begun the good work of ſettlement by you, will alſo honour you as inſtruments to perfect and compleat it, that <hi>Eng<g ref="char:EOLhyphen"/>lands</hi>
+Commonwealth may be the Tyrants and Oppreſſors terrour, the enſlaved and oppreſſed's ſuccour and ſhelter,
+throughout the Nations of the earth. And whereas ſome of us were hereupon drawn forth in our ſpirits immediately
+upon your returning to your places to expedite an Early addreſs unto you, principally to manifeſt our cordiall affe<g ref="char:EOLhyphen"/>ctions
+to you, and our faithfull perſeverance in adhearing to the <hi>Good old Cauſe,</hi> to the encouraging our hearts, and
+ſtrengthning our hands in God, againſt the flood of oppoſition in all malignant and maligning enemies, both old and
+new: purpoſely omitting the preſentation of our grievances or deſires relating thereunto in the Criſis of publique
+affaires, which being now by the good providence of God ſomewhat over, and matters referring to the ſecurity of
+the being of our liberty, and your juſt authority, in ſome meaſure provided for, which onely we then deſired, and
+now thankfully acknowledge your care therein. We hope it wil not be judged impertinent or unſeaſonable to ſpread
+before you the thoughts of our hearts concerning ſome moſt materiall things which we humbly conceive are neceſſa<g ref="char:EOLhyphen"/>ry
+(at leaſt) to our wel-being, which are as followeth:</p>
+            <p>1. That timely proviſion may be made for the ſetling and eſtabliſhing a Common-wealths conſtitution, upon
+principles and rules of common juſtice, univerſal freedom, reciprocall conſiſtency, and neceſſary dependency of inte<g ref="char:EOLhyphen"/>reſt
+between the Governours and governed, that the government may not through any failer therein degenerate ei<g ref="char:EOLhyphen"/>ther
+into Monarchy or Anarchy. And that a Committee may be appointed to receive ſuch propoſals from any per<g ref="char:EOLhyphen"/>ſons
+who ſhall offer to them any light therein.</p>
+            <p>2. That care may be taken that the conduct and command of the Army may be ſo ſetled as may be conſiſtent
+with the nature and intereſt of a Common-wealth.</p>
+            <p>3. That a ſpeedy and through inſpection be made into the laws, that ſuch which are burdenſome or oppreſſive to
+the people, whether of a religious or civill nature, may be repealed, and that the adminiſtration, as to its dilatorineſs,
+and chargableneſs, may be effectually regulated; or rather that a new modell of the Laws, conſiſtent with a Common-wealths
+intereſt may be made and eſtabliſhed, that that which is ordained to be the peoples hedge and fence may
+not become their ſnare, and inſtrument of ruin.</p>
+            <p>4. That conſideration may be had of the preſent way of the Nations Miniſteries maintenance by Tythes, which is
+offenſive to many tender conſciences, oppreſſive to the Husband man, whoſe livelihood depends upon tillage, tends to
+devide between Miniſters and people, and renders their labours for the moſt part abortive and unprofitable, and that
+redreſs may be afforded therein.</p>
+            <p>5. That as you thought fit to take away all Wardſhips as a badge of the Norman yoak, to the great eaſe of perſons of
+great eſtates (though they much encreaſed the publique treaſure) ſo you would take ſome effectual courſe for the
+alteration of arbitrary Copy hold tenures, as a great mark of tyranny, that the poor tenants thereof may not be left
+to the mercy of the Lords of ſuch Manors, whilſt great men are made free; but may all have a proportionable taſte, in
+their capacities, of the benefit of a Commonwealths freedom.</p>
+            <p>6. That the payment of the publique Faith debts may be no longer delayed, to the diſhonour of the Nation, and
+the undoing many poor zealous friends, who lent beyond their abilities, and now want bread.</p>
+            <p>7. That all debts contracted by private perſons for private uſes, may not be payd out of the publique treaſury.</p>
+            <p>8. And laſtly, that the ſame perſons may not alwaies continue in the exerciſe of the legiſlative power, but that all
+may come to taſte of ſubjection as well as rule; and in order thereto that in convenient time proviſion may be made
+for the ſucceſſion of equal Repreſentatives, with ſuch due qualifications of the Electors and Elected, as may conſiſt
+with the intereſt of the Common-wealth.</p>
+            <closer>And your Petitioners ſhall pray, &amp;c.</closer>
+         </div>
+         <div type="Parliamentary_report">
+            <p>This Petition was preſented on Tueſday <hi>Iune</hi> 21, by Sir <hi>Henry Blount</hi> Knight, accompanied with divers Gentlemen, Free-holders
+of the County aforeſaid. At the delivery whereof the ſaid Sir <hi>Henry</hi> among other words uſed theſe following expreſſions:
+<hi>That our ſubſcriptions had bin much more numerous, but that care was taken to make uſe of no more hands then of
+thoſe perſons who are eminently affected to your government and a Common wealth.</hi> And the Petitioners being com<g ref="char:EOLhyphen"/>manded
+to withdraw, after reading of the Petition, and ſome debate upon the ſame, they were called into the Houſe again, and re<g ref="char:EOLhyphen"/>ceived
+this anſwer from the Speaker: <hi>Gentlemen,</hi> Your Petition hath been read, and every part thereof, wherein the Houſe have
+obſerved many expreſſions of very good affections, and they believe of good intentions alſo, and hath commanded me to give you
+thanks for the ſame: and I do give you the thanks of the Houſe accordingly.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Brewſter,</hi> at the three Bibles at the Weſt end of <hi>Pauls.</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
